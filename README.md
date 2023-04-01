@@ -1,3 +1,3 @@
 # tester
 
-A package used for various testing purposes.
+A library created and used for testing purposes only.

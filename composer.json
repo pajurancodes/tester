@@ -1,0 +1,21 @@
+{
+    "name": "pajurancodes/tester",
+    "type": "library",
+    "description": "A library created and used for testing purposes only",
+    "keywords": ["tester", "test", "testing"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Community of PajuranCodes",
+            "homepage": "https://github.com/pajurancodes"
+        }
+    ],
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "PajuranCodes\\Tester\\": "src/"
+        }
+    }
+}
